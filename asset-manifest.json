@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mousaalnana.com/static/css/main.846957ad.css",
+    "main.js": "/mousaalnana.com/static/js/main.da78b69b.js",
+    "static/js/787.d2b90738.chunk.js": "/mousaalnana.com/static/js/787.d2b90738.chunk.js",
+    "static/media/mousa-logo.png": "/mousaalnana.com/static/media/mousa-logo.f8711d8fae8421e9a3ef.png",
+    "index.html": "/mousaalnana.com/index.html",
+    "main.846957ad.css.map": "/mousaalnana.com/static/css/main.846957ad.css.map",
+    "main.da78b69b.js.map": "/mousaalnana.com/static/js/main.da78b69b.js.map",
+    "787.d2b90738.chunk.js.map": "/mousaalnana.com/static/js/787.d2b90738.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846957ad.css",
+    "static/js/main.da78b69b.js"
+  ]
+}
